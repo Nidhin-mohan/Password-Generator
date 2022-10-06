@@ -1,7 +1,6 @@
 # PassWord Genarator
 
-This is a color changeer project . When we click on button this will generate random colors and apply that to background of canvas.
-it took me 20 minutes to do this
+This is a Password Genarator  .It can handle 4-20  length . 
 
 # Technologies Used
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen) 
